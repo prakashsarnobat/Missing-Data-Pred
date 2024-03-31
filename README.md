@@ -18,3 +18,8 @@ Work through the following example previously done by somebody else to understan
 
 * https://dylancastillo.co/text-classification-using-python-and-scikit-learn/   (Provided example)
 * http://localhost:8888/notebooks/WordClassSKLearn.ipynb  (Link to our own Notebook)
+
+## Additional references on Vectorization to help improve our model:
+* https://www.analyticsvidhya.com/blog/2021/09/what-are-n-grams-and-how-to-implement-them-in-python/
+* https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
+* https://practicaldatascience.co.uk/machine-learning/how-to-use-count-vectorization-for-n-gram-analysis
