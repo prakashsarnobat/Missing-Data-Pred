@@ -1,5 +1,5 @@
 # Missing-Data-Pred
-Predict missing Categorical Data based on other rows with known cells
+Predict missing Categorical Data based on other rows with known cells, so that this Dataset is complete, and can be used for further analysis e.g. creating reports in Power BI which display the popularity of Jobs.
 
 # Goals - most important listed first 
 1) Deal with missing Data, that is of a discrete nature.
