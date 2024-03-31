@@ -11,3 +11,5 @@ Use Sci-kit Learn to perform basic Natural Language Processing of the column 'Jo
 
 # Step 2 is to use the other cells in a particular row to build on Stage 1, and further improve the Prediction of the missing cell.
 Exact method used TBC.
+
+Link to Notebook:  http://localhost:8888/notebooks/WordClassSKLearn.ipynb
