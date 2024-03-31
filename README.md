@@ -18,4 +18,5 @@ Exact method used TBC.
 Work through the following example previously done by somebody else to understand how the NLP method works, and then substitute the dataset and adapt the code to our requirements.
 
 https://dylancastillo.co/text-classification-using-python-and-scikit-learn/   (Provided example)
+
 http://localhost:8888/notebooks/WordClassSKLearn.ipynb  (Link to our own Notebook)
